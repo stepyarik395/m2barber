@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow:
+
+Host: m2barber.com.ua
